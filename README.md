@@ -10,7 +10,7 @@ We will be meeting on the **Last Thursday** of the month at *6:30pm*. The curren
 
 ## Want to join?
 
-Join the [Cyrpus Developer Community](https://cdc.cy)
+Join the [Cyprus Developer Community](https://cdc.cy)
 
 ## Why Github?
 
